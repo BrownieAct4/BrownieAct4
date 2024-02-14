@@ -1,4 +1,4 @@
-- 😶‍🌫️ Hi, I’m @BrownieAct4
+- 🪀 Hi, I’m @BrownieAct4
 - 🕯️ I’m interested in Game Development 
 - 🧋 I’m currently learning C++, Java, Javascript, and Python.
 - 💫I currently know HTML, CSS, Processing,
