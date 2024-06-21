@@ -1,7 +1,7 @@
 - 🪀 Hi, I’m @BrownieAct4
 - 🕯️ I’m interested in Game Development 
-- 🧋 I’m currently learning C++, Java, Javascript, and Python.
-- 💫I currently know HTML, CSS, Processing,
+- 🧋 I’m currently learning Java, and Python.
+- 💫I currently know HTML, CSS, C++, C, C# and Javascript.
 - ☕ I’m looking to collaborate on game projects and websites. 
 - 📫 How to reach me ...trey.brown256@gmail.com
 
