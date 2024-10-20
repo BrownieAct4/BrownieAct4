@@ -10,7 +10,7 @@
    \ \_______\ \__\\ _\\ \_______\ \____________\ \__\\ \__\ \__\ \_______\ \__\ \__\ \_______\  \ \__\       \ \__\
     \|_______|\|__|\|__|\|_______|\|____________|\|__| \|__|\|__|\|_______|\|__|\|__|\|_______|   \|__|        \|__| 
      CS Major by day, Game Developer by night. 
-     I enjoy programming, designing models, and making music. 
+     I enjoy programming, spriting, designing models, and making music. 
      I currently know HTML, CSS, C++, C, C# and Javascript.
      Currently learning three.js, java, and react. 
      For any buisness inquiries related to web or game dev, please contact me at tery.brown256@gmail.com
